@@ -33,27 +33,26 @@ Let's get started....
 
 
 <p><b>[1] </b>Navigate to EC2 Console --> <b>Account Attributes</b> --> Settings --> <b>“EBS Encryption”</b></p>
-<b><a href="https://console.aws.amazon.com/ec2/v2/home?region=eu-west-1#Settings:tab=ebsEncryption" target="_blank"> Quick Link Example </a></b>
+<p><img src="https://github.com/dineshrathee12/How-to-enable-encryption-by-default-for-newly-launched-Instances-volumes-snapshots/blob/master/Images/01.jpg" style="width: 836.881px; height: 357.41px;"><b><br></b></p>
 
-![Step-1](https://dev-to-uploads.s3.amazonaws.com/i/udgzjtt9j7ujyjd3aefj.jpg)
 
 <p><b>[2] </b>Click on <b>“Manage”</b></p>
-![Step-2](https://dev-to-uploads.s3.amazonaws.com/i/heiw8xdok6zlqehvitgf.jpg)
+<p><img src="https://github.com/dineshrathee12/How-to-enable-encryption-by-default-for-newly-launched-Instances-volumes-snapshots/blob/master/Images/02.jpg" style="width: 836.881px; height: 357.41px;"><b><br></b></p>
 
 <p><b>[3] </b>Now, you can click on checkbox <b>“Always Encrypt new EBS Volumes”</b>, specify the key, and click <b>“Update EBS Encryption”</b></p>
-![Step-3](https://dev-to-uploads.s3.amazonaws.com/i/btu7664i5bwbxe0inrgw.jpg)
+<p><img src="https://github.com/dineshrathee12/How-to-enable-encryption-by-default-for-newly-launched-Instances-volumes-snapshots/blob/master/Images/03.jpg" style="width: 836.881px; height: 357.41px;"><b><br></b></p>
 
 <p><b>[4] </b>It will look like below:</p>
-![Step-4](https://dev-to-uploads.s3.amazonaws.com/i/k6kkp5hggvo46f4evsuh.jpg)
+<p><img src="https://github.com/dineshrathee12/How-to-enable-encryption-by-default-for-newly-launched-Instances-volumes-snapshots/blob/master/Images/04.jpg" style="width: 836.881px; height: 357.41px;"><b><br></b></p>
 
 <p><b>[5] </b>Now, let us try to <b>launch</b> an instance:</p>
-![Step-5](https://dev-to-uploads.s3.amazonaws.com/i/rjsmd1185aa63pul7ike.jpg)
+<p><img src="https://github.com/dineshrathee12/How-to-enable-encryption-by-default-for-newly-launched-Instances-volumes-snapshots/blob/master/Images/05.jpg" style="width: 836.881px; height: 357.41px;"><b><br></b></p>
 
 <p><b>[6] </b>Now you can see the <b>Volume</b> and click on <b>volume id</b> to check the Encryption details</p>
-![Step-6](https://dev-to-uploads.s3.amazonaws.com/i/9v8bd09fztgcv32ptqly.jpg)
+<p><img src="https://github.com/dineshrathee12/How-to-enable-encryption-by-default-for-newly-launched-Instances-volumes-snapshots/blob/master/Images/06.jpg" style="width: 836.881px; height: 357.41px;"><b><br></b></p>
 
 <p><b>[7] </b><b><i>Now, you can see the volume has been encrypted with a Key for newly launched Instance</b></i></p>
-![Step-7](https://dev-to-uploads.s3.amazonaws.com/i/b65iqta3nnl79jdmqcwc.jpg)
+<p><img src="https://github.com/dineshrathee12/How-to-enable-encryption-by-default-for-newly-launched-Instances-volumes-snapshots/blob/master/Images/07.jpg" style="width: 836.881px; height: 357.41px;"><b><br></b></p>
 
 
 <b>Lastly...</b>
